@@ -6,7 +6,7 @@
 
 module load singularity
 
-f=("SRR453566")
+f="SRR453566"
 
 singularity exec /usr/local/biotools/s/samtools\:1.6--0.1 samtools sort \
 -@ 4 -o ${f}.sort.bam ${f}.sam
