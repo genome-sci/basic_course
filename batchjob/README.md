@@ -23,6 +23,7 @@ batch1.sh
 ```
 #!/bin/bash
 #$ -S /bin/bash
+#$ -N knowhost
 #$ -cwd
 sleep 7
 hostname > hos.txt
@@ -37,8 +38,10 @@ hostname > hos.txt
 `cat hos.txt`  
 
 3. コードの解説  
-`#$は
-#!/bin/bash` は、bashシェルを用いると指定する役割  
-`date` は、今の日時を表示  
-`sleep 7`は7秒間待つ  
-`chmod u+x`は続くファイルの実行権限を自分自身に与える  
+`#$` はqsubコマンドに渡すオプションを記述  
+`-S /bin/bash` はqsubでスクリプトの解釈にbashシェルを用いることを指定  
+`-N knowhost` はジョブの名前をジョブスクリプト名ではなくknowhostに変更  
+`-cwd` はジョブをカレントディレクトリで実行することを指定  
+`>` は左側のコマンドの結果を右側のファイルに書き込む  
+　  
+
