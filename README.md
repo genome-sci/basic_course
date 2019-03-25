@@ -11,6 +11,6 @@
     12:50～13:20　[遺伝研スパコン概要説明](https://github.com/genome-sci/basic_course/blob/master/NIG_SC_introduction.pdf)  (遺伝研・小笠原理)  
     13:20～14:25　[遺伝研スパコンへの接続方法、UNIX基本コマンド](https://github.com/genome-sci/basic_course/blob/master/linux_command/Linux%E3%81%AE%E5%9F%BA%E6%9C%AC%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%892019.pdf)  (遺伝研・谷澤靖洋)  
     14:25～14:40　休憩  
-    14:40～15:30　[シェルスクリプト](https://github.com/genome-sci/basic_course/blob/master/shellscript/README.md)＆バッチジョブ  (遺伝研・森宙史)  
-    15:30～16:15　シェルスクリプト＆[バッチジョブ](https://github.com/genome-sci/basic_course/blob/master/batchjob/README.md)  (遺伝研・森宙史)  
+    14:40～15:45　[シェルスクリプト](https://github.com/genome-sci/basic_course/blob/master/shellscript/README.md)＆バッチジョブ  (遺伝研・森宙史)  
+    15:45～16:15　シェルスクリプト＆[バッチジョブ](https://github.com/genome-sci/basic_course/blob/master/batchjob/README.md)  (遺伝研・森宙史)  
     16:15～17:20　[遺伝研スパコンでの解析の実践 (RNA-seq解析等)](https://github.com/genome-sci/basic_course/blob/master/rna-seq_handout_20190325.pdf)  (千葉大・高橋弘喜)  
