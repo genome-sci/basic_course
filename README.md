@@ -2,7 +2,10 @@
 - 会場　国立遺伝学研究所（DDBJ）W棟4階会議室
 - 日時　2019年3月25日（月）　12：40～17：20
 
-
+事前準備 
+- [Windows](https://www.evernote.com/l/AM3Roi7wQQdPr6oTXeb1_K5X6NTcbNzLyso)  
+- [Mac](https://www.evernote.com/l/AM3SRVwG6eJLDZojqTgWS_x5csynKJpbI0o)  
+　　　
 - スケジュール  (予定)   
     12:40～12:50 先進ゲノム支援の説明 (遺伝研・黒川顕)  
     12:50～13:20　[遺伝研スパコン概要説明](https://github.com/genome-sci/basic_course/blob/master/NIG_SC_introduction.pdf)  (遺伝研・小笠原理)  
